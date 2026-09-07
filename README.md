@@ -29,7 +29,7 @@
 Windows 下将本仓库内容克隆到 fastfetch 的配置搜索目录（默认为 `~/.config/fastfetch`，即 `C:\Users\<你>\.config\fastfetch`）：
 
 ```powershell
-git clone https://github.com/<你的用户名>/fastfetch-config-windows.git "$HOME\.config\fastfetch"
+git clone https://github.com/JesseLee-CN/fastfetch-config-windows.git "$HOME\.config\fastfetch"
 ```
 
 可直接运行验证：
